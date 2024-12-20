@@ -1,5 +1,6 @@
+// this is a hacky way to do it, but I cba to do build/deploy stuff atm 
+
 const navCode = `
-<!-- Header (Nav Bar) -->
 <nav class="navbar navbar-expand-lg navbar-light bg-light headerStyle">
     <div class="container-fluid">
         <a class="navbar-brand" href="/SimulationLabs">Simulation Labs </a>
