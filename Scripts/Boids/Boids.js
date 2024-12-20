@@ -20,7 +20,9 @@ function addRandomDirection(){
 }
 
 function setup(){
-    createCanvas(400, 400);
+    let cnv = createCanvas(400, 400);
+    cnv.parent('BoidContainer');
+
     background(140, 205, 230);
 }
 
